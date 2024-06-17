@@ -1,3 +1,7 @@
+Name:Subramani A
+Roll N0:230701347
+Ex No:07-IMPLEMENTATION OF QUEUE USING ARRAY AND LINKED LIST IMPLEMENTATION
+
 #include <stdio.h> 
 #include <stdlib.h> 
 // Structure for node in linked list implementation 
