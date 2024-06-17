@@ -1,3 +1,7 @@
+Name:Subramani A
+Roll N0:230701347
+Ex No:14-Implementation  of Dijkstra's algorithm
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
