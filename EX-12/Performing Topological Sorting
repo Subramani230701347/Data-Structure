@@ -1,4 +1,7 @@
- 
+Name:Subramani A
+Roll N0:230701347
+Ex No:12-Performing Topological Sorting
+
 #include <stdio.h> 
  
 #define MAX_VERTICES 10 
