@@ -1,4 +1,7 @@
- 
+Name:Subramani A
+Roll N0:230701347
+Ex No:13-Implementation of Prims Algorithm
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
