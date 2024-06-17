@@ -1,3 +1,7 @@
+Name:Subramani A
+Roll N0:230701347
+Ex No:05-Application of stack(Infix to Postfix)
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
